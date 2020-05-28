@@ -1,0 +1,17 @@
+{
+    "name": "Miles",
+    "alias": "miles",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Miles\\Providers\\MilesServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ],
+    "icon": "th-large",
+    "plural": "miles"
+}
